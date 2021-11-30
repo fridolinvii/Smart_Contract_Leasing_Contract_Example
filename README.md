@@ -1,4 +1,4 @@
-# Smart_Contract_Leasing_Contract_Example
+# Smart Contract - Leasing Contract Example
 
 We give here an example of a Leasing Contract that can be implemented as Smart Contract on the Ethereum Blockchain. 
 
