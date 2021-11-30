@@ -3,6 +3,7 @@
 /*  
     Date: November 2021
     Authors: Carlo Seppi, Andrey Shmelev, Lindijan Alijoski
+    Github: https://github.com/fridolinvii/Smart_Contract_Leasing_Contract_Example
 */
 
 pragma solidity ^0.8.10;
