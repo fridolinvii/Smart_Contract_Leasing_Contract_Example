@@ -4,6 +4,9 @@
     Date: November 2021
     Authors: Carlo Seppi, Andrey Shmelev, Lindijan Alijoski
     Github: https://github.com/fridolinvii/Smart_Contract_Leasing_Contract_Example
+    
+    DISCLAIMER OF LIABILITY: The authors assumes or undertakes NO LIABILITY for any loss or damage suffered as a result of the use, 
+                             misuse or reliance on the information and content on this website and the code.
 */
 
 pragma solidity ^0.8.10;
