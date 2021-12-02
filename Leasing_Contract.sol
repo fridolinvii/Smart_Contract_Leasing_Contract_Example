@@ -63,8 +63,8 @@ contract LeasingAgreement {
         leasingTotalCost = 10 * value; //_leasingTotalCost;    10 finney
         singlePayment = 1 * value; //_singlePayment;
         recurringPayment = 1 * value; //_recurringPayment;
-        VehicleIdentificationNumber = "ABC 192 adf"; //_VehicleIdentificationNumber;
-        contractInPdf = "ipfs://QmcaRa2CJQNpNvWeG4chosao82YjhMXSMSUmBFShY8jobc"; //_contractInPdf;
+        VehicleIdentificationNumber = "WPO ZZZ 91 ZDS 102 886"; //_VehicleIdentificationNumber;
+        contractInPdf = "ipfs://QmQgrsdutdqL2e6FeoiX9hJLUbvHQXmuhyV9CbmcrbaqWD"; //_contractInPdf;
         */
         
 
