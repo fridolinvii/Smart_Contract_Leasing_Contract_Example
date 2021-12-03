@@ -17,3 +17,5 @@ The code has following functions:
 
 For further details, please look into the code. 
 In addition, an ipfs link can be added to the contract, where the AGB can be downloaded. Because of the unique hash of the ipfs, the document can not be altered, without changing the hash.
+
+Example of ipfs contract: [ipfs://QmQgrsdutdqL2e6FeoiX9hJLUbvHQXmuhyV9CbmcrbaqWD](ipfs://QmQgrsdutdqL2e6FeoiX9hJLUbvHQXmuhyV9CbmcrbaqWD)
